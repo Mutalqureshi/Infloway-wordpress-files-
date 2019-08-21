@@ -1,0 +1,7 @@
+navigation hover and active -- bootstrap 4 class
+//
+.main-nav ul li.current-menu-item a:after,
+.main-nav ul li.current_page_item a:after,
+.main-nav ul li a:hover:after{
+	opacity: 1;
+}

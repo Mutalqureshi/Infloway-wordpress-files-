@@ -1,0 +1,1 @@
+$html .='<a class="image-link" href="'.get_the_permalink().'">'.get_the_post_thumbnail( $post_id, 'recent-posts-image', array('class' => 'img-fluid') ).'</a>';

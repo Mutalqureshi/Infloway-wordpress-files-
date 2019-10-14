@@ -1,0 +1,1 @@
+ <?php the_post_thumbnail('', array( 'class' => 'img-fluid' )); ?> <?php the_post_thumbnail('', array( 'class' => 'img-fluid' )); ?>
